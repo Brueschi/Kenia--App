@@ -1,0 +1,15 @@
+{
+  "id": "testausgabe-02",
+  "title": "Kenia Weekly – Testausgabe 02: Gesellschaft und Geschichte",
+  "test": true,
+  "markdown_path": "briefings/testausgabe-02.md",
+  "chapters": [
+    "1. Wahlen 2027 – Beteiligung, Vertrauen und Wahlorganisation",
+    "2. Weitere Politik – Parlament, Reformen und öffentliche Finanzen",
+    "3. Gesellschaft – Preise, Arbeit, soziale Sicherheit und Protest",
+    "4. Historisches Thema – Unabhängigkeit, Landfrage und ihre Nachwirkungen",
+    "5. Kenianische Persönlichkeit – Wangari Maathai",
+    "6. Luo – Leben am Viktoriasee, Kisumu, Kultur und Dholuo"
+  ],
+  "status": "complete"
+}
