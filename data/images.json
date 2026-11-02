@@ -1,314 +1,228 @@
 {
-  "version": 2,
-  "note": "Kontextbilder, keine Bebilderung aktueller Ereignisse. Bildnachweis direkt an jedem Bild.",
+  "version": 3,
+  "note": "Nur vier anhand der Commons-Originalseiten geprüfte Fotos; 16 ungeprüfte Motive entfernt.",
   "default_cover": {
-    "file": "Kisumu Clock tower.JPG",
-    "alt": "Uhrturm in Kisumu",
-    "caption": "Uhrturm in Kisumu (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-    "author": "siehe Wikimedia Commons",
-    "license": "Lizenz und Urheber: siehe Bildquelle"
+    "file": "Nairobi skyline.jpg",
+    "alt": "Nairobi",
+    "caption": "Kontextbild; keine aktuelle Ereignisaufnahme",
+    "author": "Waceke kamau",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   "issues": {
     "testausgabe-01": {
       "cover": {
-        "file": "Kenya National Assembly front.jpg",
-        "alt": "Nationalversammlung in Nairobi",
-        "caption": "Nationalversammlung in Nairobi (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-        "author": "siehe Wikimedia Commons",
-        "license": "Lizenz und Urheber: siehe Bildquelle"
+        "file": "Nairobi skyline.jpg",
+        "alt": "Nairobi",
+        "caption": "Kontextbild; keine aktuelle Ereignisaufnahme",
+        "author": "Waceke kamau",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
       },
       "chapters": {
         "1": {
-          "file": "Interior of Kenya National Assembly.jpg",
-          "alt": "Innenraum der kenianischen Nationalversammlung",
-          "caption": "Innenraum der kenianischen Nationalversammlung (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-          "author": "siehe Wikimedia Commons",
-          "license": "Lizenz und Urheber: siehe Bildquelle"
+          "file": "A view of Lake Victoria, Kisumu, Kenya.jpg",
+          "alt": "Viktoriasee bei Kisumu",
+          "caption": "Kontextbild; keine aktuelle Ereignisaufnahme",
+          "author": "Sanjib Chaudhary",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
         },
         "2": {
-          "file": "Kenyan Parliament Entry.JPG",
-          "alt": "Eingang zum kenianischen Parlament",
-          "caption": "Eingang zum kenianischen Parlament (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-          "author": "siehe Wikimedia Commons",
-          "license": "Lizenz und Urheber: siehe Bildquelle"
+          "file": "A view of Lake Victoria, Kisumu, Kenya 3.jpg",
+          "alt": "Viktoriasee bei Kisumu",
+          "caption": "Kontextbild; keine aktuelle Ereignisaufnahme",
+          "author": "Sanjib Chaudhary",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
         },
         "3": {
-          "file": "Parliament Buildings and Uhuru Park, Nairobi.jpg",
-          "alt": "Parlament und Uhuru Park",
-          "caption": "Parlament und Uhuru Park (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-          "author": "siehe Wikimedia Commons",
-          "license": "Lizenz und Urheber: siehe Bildquelle"
+          "file": "Wikimania 2025 - Pre-Conference Nairobi Skyline.jpg",
+          "alt": "Nairobi",
+          "caption": "Kontextbild; keine aktuelle Ereignisaufnahme",
+          "author": "Islahaddow",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
         },
         "4": {
-          "file": "Kenya National Archives.JPG",
-          "alt": "Nationalarchiv in Nairobi",
-          "caption": "Nationalarchiv in Nairobi (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-          "author": "siehe Wikimedia Commons",
-          "license": "Lizenz und Urheber: siehe Bildquelle"
+          "file": "Nairobi skyline.jpg",
+          "alt": "Nairobi",
+          "caption": "Kontextbild; keine aktuelle Ereignisaufnahme",
+          "author": "Waceke kamau",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
         },
         "5": {
-          "file": "Kenyatta International Conference Center.JPG",
-          "alt": "Konferenzzentrum in Nairobi",
-          "caption": "Konferenzzentrum in Nairobi (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-          "author": "siehe Wikimedia Commons",
-          "license": "Lizenz und Urheber: siehe Bildquelle"
+          "file": "A view of Lake Victoria, Kisumu, Kenya.jpg",
+          "alt": "Viktoriasee bei Kisumu",
+          "caption": "Kontextbild; keine aktuelle Ereignisaufnahme",
+          "author": "Sanjib Chaudhary",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
         },
         "6": {
-          "file": "Village Market Nairobi.jpg",
-          "alt": "Markt in Nairobi",
-          "caption": "Markt in Nairobi (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-          "author": "siehe Wikimedia Commons",
-          "license": "Lizenz und Urheber: siehe Bildquelle"
+          "file": "A view of Lake Victoria, Kisumu, Kenya 3.jpg",
+          "alt": "Viktoriasee bei Kisumu",
+          "caption": "Kontextbild; keine aktuelle Ereignisaufnahme",
+          "author": "Sanjib Chaudhary",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
         }
       }
     },
     "testausgabe-02": {
       "cover": {
-        "file": "Village Market Nairobi.jpg",
-        "alt": "Markt in Nairobi",
-        "caption": "Markt in Nairobi (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-        "author": "siehe Wikimedia Commons",
-        "license": "Lizenz und Urheber: siehe Bildquelle"
+        "file": "A view of Lake Victoria, Kisumu, Kenya.jpg",
+        "alt": "Viktoriasee bei Kisumu",
+        "caption": "Kontextbild; keine aktuelle Ereignisaufnahme",
+        "author": "Sanjib Chaudhary",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
       },
       "chapters": {
         "1": {
-          "file": "Kondele market circa 2010.png",
-          "alt": "Kondele-Markt in Kisumu",
-          "caption": "Kondele-Markt in Kisumu (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-          "author": "siehe Wikimedia Commons",
-          "license": "Lizenz und Urheber: siehe Bildquelle"
+          "file": "A view of Lake Victoria, Kisumu, Kenya 3.jpg",
+          "alt": "Viktoriasee bei Kisumu",
+          "caption": "Kontextbild; keine aktuelle Ereignisaufnahme",
+          "author": "Sanjib Chaudhary",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
         },
         "2": {
-          "file": "Historical photo taken in 1951 in Kisumu town.jpg",
-          "alt": "Historische Aufnahme von Kisumu (1951)",
-          "caption": "Historische Aufnahme von Kisumu (1951) (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-          "author": "siehe Wikimedia Commons",
-          "license": "Lizenz und Urheber: siehe Bildquelle"
+          "file": "Wikimania 2025 - Pre-Conference Nairobi Skyline.jpg",
+          "alt": "Nairobi",
+          "caption": "Kontextbild; keine aktuelle Ereignisaufnahme",
+          "author": "Islahaddow",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
         },
         "3": {
-          "file": "Aerial view of Kisumu.jpg",
-          "alt": "Luftaufnahme von Kisumu",
-          "caption": "Luftaufnahme von Kisumu (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-          "author": "siehe Wikimedia Commons",
-          "license": "Lizenz und Urheber: siehe Bildquelle"
+          "file": "Nairobi skyline.jpg",
+          "alt": "Nairobi",
+          "caption": "Kontextbild; keine aktuelle Ereignisaufnahme",
+          "author": "Waceke kamau",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
         },
         "4": {
-          "file": "Kisumu town hall.jpg",
-          "alt": "Rathaus von Kisumu",
-          "caption": "Rathaus von Kisumu (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-          "author": "siehe Wikimedia Commons",
-          "license": "Lizenz und Urheber: siehe Bildquelle"
+          "file": "A view of Lake Victoria, Kisumu, Kenya.jpg",
+          "alt": "Viktoriasee bei Kisumu",
+          "caption": "Kontextbild; keine aktuelle Ereignisaufnahme",
+          "author": "Sanjib Chaudhary",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
         },
         "5": {
-          "file": "Dunga beach.jpg",
-          "alt": "Dunga Beach bei Kisumu",
-          "caption": "Dunga Beach bei Kisumu (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-          "author": "siehe Wikimedia Commons",
-          "license": "Lizenz und Urheber: siehe Bildquelle"
+          "file": "A view of Lake Victoria, Kisumu, Kenya 3.jpg",
+          "alt": "Viktoriasee bei Kisumu",
+          "caption": "Kontextbild; keine aktuelle Ereignisaufnahme",
+          "author": "Sanjib Chaudhary",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
         },
         "6": {
-          "file": "KISU - Fisherman returning at sunset on Lake Victoria, Kisumu, Kenya, 2012.jpg",
-          "alt": "Fischer auf dem Viktoriasee",
-          "caption": "Fischer auf dem Viktoriasee (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-          "author": "siehe Wikimedia Commons",
-          "license": "Lizenz und Urheber: siehe Bildquelle"
+          "file": "Wikimania 2025 - Pre-Conference Nairobi Skyline.jpg",
+          "alt": "Nairobi",
+          "caption": "Kontextbild; keine aktuelle Ereignisaufnahme",
+          "author": "Islahaddow",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
         }
       }
     },
     "testausgabe-03": {
       "cover": {
-        "file": "KISU - Fisherman returning at sunset on Lake Victoria, Kisumu, Kenya, 2012.jpg",
-        "alt": "Fischer auf dem Viktoriasee",
-        "caption": "Fischer auf dem Viktoriasee (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-        "author": "siehe Wikimedia Commons",
-        "license": "Lizenz und Urheber: siehe Bildquelle"
+        "file": "A view of Lake Victoria, Kisumu, Kenya 3.jpg",
+        "alt": "Viktoriasee bei Kisumu",
+        "caption": "Kontextbild; keine aktuelle Ereignisaufnahme",
+        "author": "Sanjib Chaudhary",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
       },
       "chapters": {
         "1": {
-          "file": "KISU - Boats and landing sites on Lake Victoria at Kisumu, Kenya, 2012.jpg",
-          "alt": "Boote am Viktoriasee",
-          "caption": "Boote am Viktoriasee (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-          "author": "siehe Wikimedia Commons",
-          "license": "Lizenz und Urheber: siehe Bildquelle"
+          "file": "Wikimania 2025 - Pre-Conference Nairobi Skyline.jpg",
+          "alt": "Nairobi",
+          "caption": "Kontextbild; keine aktuelle Ereignisaufnahme",
+          "author": "Islahaddow",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
         },
         "2": {
-          "file": "Lake Victoria as visible from Kisumu City.jpg",
-          "alt": "Viktoriasee von Kisumu aus",
-          "caption": "Viktoriasee von Kisumu aus (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-          "author": "siehe Wikimedia Commons",
-          "license": "Lizenz und Urheber: siehe Bildquelle"
+          "file": "Nairobi skyline.jpg",
+          "alt": "Nairobi",
+          "caption": "Kontextbild; keine aktuelle Ereignisaufnahme",
+          "author": "Waceke kamau",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
         },
         "3": {
-          "file": "Kisumu station, Kenya.jpg",
-          "alt": "Bahnhof von Kisumu",
-          "caption": "Bahnhof von Kisumu (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-          "author": "siehe Wikimedia Commons",
-          "license": "Lizenz und Urheber: siehe Bildquelle"
+          "file": "A view of Lake Victoria, Kisumu, Kenya.jpg",
+          "alt": "Viktoriasee bei Kisumu",
+          "caption": "Kontextbild; keine aktuelle Ereignisaufnahme",
+          "author": "Sanjib Chaudhary",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
         },
         "4": {
-          "file": "Kisumu Oginga Odinga street.JPG",
-          "alt": "Oginga-Odinga-Strasse in Kisumu",
-          "caption": "Oginga-Odinga-Strasse in Kisumu (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-          "author": "siehe Wikimedia Commons",
-          "license": "Lizenz und Urheber: siehe Bildquelle"
+          "file": "A view of Lake Victoria, Kisumu, Kenya 3.jpg",
+          "alt": "Viktoriasee bei Kisumu",
+          "caption": "Kontextbild; keine aktuelle Ereignisaufnahme",
+          "author": "Sanjib Chaudhary",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
         },
         "5": {
-          "file": "Outside dancing in Kisumu.JPG",
-          "alt": "Tanzveranstaltung in Kisumu",
-          "caption": "Tanzveranstaltung in Kisumu (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-          "author": "siehe Wikimedia Commons",
-          "license": "Lizenz und Urheber: siehe Bildquelle"
+          "file": "Wikimania 2025 - Pre-Conference Nairobi Skyline.jpg",
+          "alt": "Nairobi",
+          "caption": "Kontextbild; keine aktuelle Ereignisaufnahme",
+          "author": "Islahaddow",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
         },
         "6": {
-          "file": "Kisumu Clock tower.JPG",
-          "alt": "Uhrturm in Kisumu",
-          "caption": "Uhrturm in Kisumu (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-          "author": "siehe Wikimedia Commons",
-          "license": "Lizenz und Urheber: siehe Bildquelle"
+          "file": "Nairobi skyline.jpg",
+          "alt": "Nairobi",
+          "caption": "Kontextbild; keine aktuelle Ereignisaufnahme",
+          "author": "Waceke kamau",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
         }
       }
     }
   },
   "gallery": [
     {
-      "file": "Kenya National Assembly front.jpg",
-      "alt": "Nationalversammlung in Nairobi",
-      "caption": "Nationalversammlung in Nairobi (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-      "author": "siehe Wikimedia Commons",
-      "license": "Lizenz und Urheber: siehe Bildquelle"
+      "file": "Nairobi skyline.jpg",
+      "alt": "Nairobi",
+      "caption": "Kontextbild; keine aktuelle Ereignisaufnahme",
+      "author": "Waceke kamau",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
     },
     {
-      "file": "Interior of Kenya National Assembly.jpg",
-      "alt": "Innenraum der kenianischen Nationalversammlung",
-      "caption": "Innenraum der kenianischen Nationalversammlung (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-      "author": "siehe Wikimedia Commons",
-      "license": "Lizenz und Urheber: siehe Bildquelle"
+      "file": "A view of Lake Victoria, Kisumu, Kenya.jpg",
+      "alt": "Viktoriasee bei Kisumu",
+      "caption": "Kontextbild; keine aktuelle Ereignisaufnahme",
+      "author": "Sanjib Chaudhary",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
     },
     {
-      "file": "Kenyan Parliament Entry.JPG",
-      "alt": "Eingang zum kenianischen Parlament",
-      "caption": "Eingang zum kenianischen Parlament (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-      "author": "siehe Wikimedia Commons",
-      "license": "Lizenz und Urheber: siehe Bildquelle"
+      "file": "A view of Lake Victoria, Kisumu, Kenya 3.jpg",
+      "alt": "Viktoriasee bei Kisumu",
+      "caption": "Kontextbild; keine aktuelle Ereignisaufnahme",
+      "author": "Sanjib Chaudhary",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
     },
     {
-      "file": "Parliament Buildings and Uhuru Park, Nairobi.jpg",
-      "alt": "Parlament und Uhuru Park",
-      "caption": "Parlament und Uhuru Park (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-      "author": "siehe Wikimedia Commons",
-      "license": "Lizenz und Urheber: siehe Bildquelle"
-    },
-    {
-      "file": "Kenya National Archives.JPG",
-      "alt": "Nationalarchiv in Nairobi",
-      "caption": "Nationalarchiv in Nairobi (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-      "author": "siehe Wikimedia Commons",
-      "license": "Lizenz und Urheber: siehe Bildquelle"
-    },
-    {
-      "file": "Kenyatta International Conference Center.JPG",
-      "alt": "Konferenzzentrum in Nairobi",
-      "caption": "Konferenzzentrum in Nairobi (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-      "author": "siehe Wikimedia Commons",
-      "license": "Lizenz und Urheber: siehe Bildquelle"
-    },
-    {
-      "file": "Village Market Nairobi.jpg",
-      "alt": "Markt in Nairobi",
-      "caption": "Markt in Nairobi (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-      "author": "siehe Wikimedia Commons",
-      "license": "Lizenz und Urheber: siehe Bildquelle"
-    },
-    {
-      "file": "Kondele market circa 2010.png",
-      "alt": "Kondele-Markt in Kisumu",
-      "caption": "Kondele-Markt in Kisumu (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-      "author": "siehe Wikimedia Commons",
-      "license": "Lizenz und Urheber: siehe Bildquelle"
-    },
-    {
-      "file": "Historical photo taken in 1951 in Kisumu town.jpg",
-      "alt": "Historische Aufnahme von Kisumu (1951)",
-      "caption": "Historische Aufnahme von Kisumu (1951) (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-      "author": "siehe Wikimedia Commons",
-      "license": "Lizenz und Urheber: siehe Bildquelle"
-    },
-    {
-      "file": "Aerial view of Kisumu.jpg",
-      "alt": "Luftaufnahme von Kisumu",
-      "caption": "Luftaufnahme von Kisumu (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-      "author": "siehe Wikimedia Commons",
-      "license": "Lizenz und Urheber: siehe Bildquelle"
-    },
-    {
-      "file": "Kisumu town hall.jpg",
-      "alt": "Rathaus von Kisumu",
-      "caption": "Rathaus von Kisumu (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-      "author": "siehe Wikimedia Commons",
-      "license": "Lizenz und Urheber: siehe Bildquelle"
-    },
-    {
-      "file": "Dunga beach.jpg",
-      "alt": "Dunga Beach bei Kisumu",
-      "caption": "Dunga Beach bei Kisumu (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-      "author": "siehe Wikimedia Commons",
-      "license": "Lizenz und Urheber: siehe Bildquelle"
-    },
-    {
-      "file": "KISU - Fisherman returning at sunset on Lake Victoria, Kisumu, Kenya, 2012.jpg",
-      "alt": "Fischer auf dem Viktoriasee",
-      "caption": "Fischer auf dem Viktoriasee (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-      "author": "siehe Wikimedia Commons",
-      "license": "Lizenz und Urheber: siehe Bildquelle"
-    },
-    {
-      "file": "KISU - Boats and landing sites on Lake Victoria at Kisumu, Kenya, 2012.jpg",
-      "alt": "Boote am Viktoriasee",
-      "caption": "Boote am Viktoriasee (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-      "author": "siehe Wikimedia Commons",
-      "license": "Lizenz und Urheber: siehe Bildquelle"
-    },
-    {
-      "file": "Lake Victoria as visible from Kisumu City.jpg",
-      "alt": "Viktoriasee von Kisumu aus",
-      "caption": "Viktoriasee von Kisumu aus (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-      "author": "siehe Wikimedia Commons",
-      "license": "Lizenz und Urheber: siehe Bildquelle"
-    },
-    {
-      "file": "Kisumu station, Kenya.jpg",
-      "alt": "Bahnhof von Kisumu",
-      "caption": "Bahnhof von Kisumu (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-      "author": "siehe Wikimedia Commons",
-      "license": "Lizenz und Urheber: siehe Bildquelle"
-    },
-    {
-      "file": "Kisumu Oginga Odinga street.JPG",
-      "alt": "Oginga-Odinga-Strasse in Kisumu",
-      "caption": "Oginga-Odinga-Strasse in Kisumu (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-      "author": "siehe Wikimedia Commons",
-      "license": "Lizenz und Urheber: siehe Bildquelle"
-    },
-    {
-      "file": "Outside dancing in Kisumu.JPG",
-      "alt": "Tanzveranstaltung in Kisumu",
-      "caption": "Tanzveranstaltung in Kisumu (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-      "author": "siehe Wikimedia Commons",
-      "license": "Lizenz und Urheber: siehe Bildquelle"
-    },
-    {
-      "file": "Kisumu Clock tower.JPG",
-      "alt": "Uhrturm in Kisumu",
-      "caption": "Uhrturm in Kisumu (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-      "author": "siehe Wikimedia Commons",
-      "license": "Lizenz und Urheber: siehe Bildquelle"
-    },
-    {
-      "file": "Ahero Rice Fields (5354665401).jpg",
-      "alt": "Reisfelder von Ahero",
-      "caption": "Reisfelder von Ahero (Archiv- oder Kontextbild; keine Aufnahme aktueller Ereignisse).",
-      "author": "siehe Wikimedia Commons",
-      "license": "Lizenz und Urheber: siehe Bildquelle"
+      "file": "Wikimania 2025 - Pre-Conference Nairobi Skyline.jpg",
+      "alt": "Nairobi",
+      "caption": "Kontextbild; keine aktuelle Ereignisaufnahme",
+      "author": "Islahaddow",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
     }
   ]
 }
