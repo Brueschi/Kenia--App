@@ -1,5 +1,5 @@
 from pathlib import Path
-import re, subprocess, urllib.request, wave, tempfile
+import re, subprocess, urllib.request
 
 root=Path(__file__).resolve().parents[1]
 source=(root/'briefings/testausgabe-03.md').read_text(encoding='utf-8')
@@ -28,6 +28,5 @@ for idx,match in enumerate(matches):
     body=re.sub(r'https?://\S+','',body)
     body=re.sub(r'\n{3,}','\n\n',body).strip()
     target=out/f'kapitel-{n}.wav'
-    with target.open('wb') as f:
-        subprocess.run(['piper','--model',str(model),'--config',str(config),'--output_file',str(target)],input=body,text=True,check=True)
+    subprocess.run(['piper','--model',str(model),'--config',str(config),'--output_file',str(target)],input=body,text=True,check=True)
     print(target,target.stat().st_size)
