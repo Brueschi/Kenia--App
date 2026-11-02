@@ -1,0 +1,172 @@
+{
+  "version": 1,
+  "note": "Kontextbilder, keine Bebilderung aktueller Ereignisse. Bildnachweis direkt an jedem Bild.",
+  "default_cover": {
+    "file": "Nairobi skyline.jpg",
+    "alt": "Blick auf die Skyline von Nairobi",
+    "caption": "Nairobi, Aufnahme von 2012 (Symbolbild).",
+    "author": "Waceke kamau",
+    "license": "CC BY-SA 4.0"
+  },
+  "issues": {
+    "testausgabe-01": {
+      "cover": {
+        "file": "Uhuru Park in Nairobi, Kenya, during sunset.jpg",
+        "alt": "Nairobi vom Uhuru Park aus bei Sonnenuntergang",
+        "caption": "Nairobi vom Uhuru Park aus, Aufnahme von 2025 (Symbolbild).",
+        "author": "AEira-WMF",
+        "license": "CC BY 4.0"
+      },
+      "chapters": {
+        "1": {
+          "file": "Uhuru Park in Nairobi, Kenya, during sunset.jpg",
+          "alt": "Nairobi vom Uhuru Park aus bei Sonnenuntergang",
+          "caption": "Nairobi vom Uhuru Park aus, Aufnahme von 2025 (Symbolbild).",
+          "author": "AEira-WMF",
+          "license": "CC BY 4.0"
+        },
+        "2": {
+          "file": "Nairobi skyline.jpg",
+          "alt": "Blick auf die Skyline von Nairobi",
+          "caption": "Nairobi, Aufnahme von 2012 (Symbolbild).",
+          "author": "Waceke kamau",
+          "license": "CC BY-SA 4.0"
+        },
+        "3": {
+          "file": "Uhuru Park in Nairobi, Kenya, during sunset.jpg",
+          "alt": "Nairobi vom Uhuru Park aus bei Sonnenuntergang",
+          "caption": "Nairobi vom Uhuru Park aus, Aufnahme von 2025 (Symbolbild).",
+          "author": "AEira-WMF",
+          "license": "CC BY 4.0"
+        },
+        "4": {
+          "file": "Nairobi skyline.jpg",
+          "alt": "Blick auf die Skyline von Nairobi",
+          "caption": "Nairobi, Aufnahme von 2012 (Symbolbild).",
+          "author": "Waceke kamau",
+          "license": "CC BY-SA 4.0"
+        },
+        "5": {
+          "file": "Uhuru Park in Nairobi, Kenya, during sunset.jpg",
+          "alt": "Nairobi vom Uhuru Park aus bei Sonnenuntergang",
+          "caption": "Nairobi vom Uhuru Park aus, Aufnahme von 2025 (Symbolbild).",
+          "author": "AEira-WMF",
+          "license": "CC BY 4.0"
+        },
+        "6": {
+          "file": "A view of Lake Victoria, Kisumu, Kenya.jpg",
+          "alt": "Blick auf den Viktoriasee bei Kisumu",
+          "caption": "Viktoriasee bei Kisumu, Aufnahme von 2025 (Symbolbild).",
+          "author": "Sanjib Chaudhary",
+          "license": "siehe Originaldatei auf Wikimedia Commons"
+        }
+      }
+    },
+    "testausgabe-02": {
+      "cover": {
+        "file": "Nairobi skyline.jpg",
+        "alt": "Blick auf die Skyline von Nairobi",
+        "caption": "Nairobi, Aufnahme von 2012 (Symbolbild).",
+        "author": "Waceke kamau",
+        "license": "CC BY-SA 4.0"
+      },
+      "chapters": {
+        "1": {
+          "file": "Uhuru Park in Nairobi, Kenya, during sunset.jpg",
+          "alt": "Nairobi vom Uhuru Park aus bei Sonnenuntergang",
+          "caption": "Nairobi vom Uhuru Park aus, Aufnahme von 2025 (Symbolbild).",
+          "author": "AEira-WMF",
+          "license": "CC BY 4.0"
+        },
+        "2": {
+          "file": "Nairobi skyline.jpg",
+          "alt": "Blick auf die Skyline von Nairobi",
+          "caption": "Nairobi, Aufnahme von 2012 (Symbolbild).",
+          "author": "Waceke kamau",
+          "license": "CC BY-SA 4.0"
+        },
+        "3": {
+          "file": "Nairobi skyline.jpg",
+          "alt": "Blick auf die Skyline von Nairobi",
+          "caption": "Nairobi, Aufnahme von 2012 (Symbolbild).",
+          "author": "Waceke kamau",
+          "license": "CC BY-SA 4.0"
+        },
+        "4": {
+          "file": "Uhuru Park in Nairobi, Kenya, during sunset.jpg",
+          "alt": "Nairobi vom Uhuru Park aus bei Sonnenuntergang",
+          "caption": "Nairobi vom Uhuru Park aus, Aufnahme von 2025 (Symbolbild).",
+          "author": "AEira-WMF",
+          "license": "CC BY 4.0"
+        },
+        "5": {
+          "file": "Uhuru Park in Nairobi, Kenya, during sunset.jpg",
+          "alt": "Nairobi vom Uhuru Park aus bei Sonnenuntergang",
+          "caption": "Nairobi vom Uhuru Park aus, Aufnahme von 2025 (Symbolbild).",
+          "author": "AEira-WMF",
+          "license": "CC BY 4.0"
+        },
+        "6": {
+          "file": "A view of Lake Victoria, Kisumu, Kenya.jpg",
+          "alt": "Blick auf den Viktoriasee bei Kisumu",
+          "caption": "Viktoriasee bei Kisumu, Aufnahme von 2025 (Symbolbild).",
+          "author": "Sanjib Chaudhary",
+          "license": "siehe Originaldatei auf Wikimedia Commons"
+        }
+      }
+    },
+    "testausgabe-03": {
+      "cover": {
+        "file": "A view of Lake Victoria, Kisumu, Kenya.jpg",
+        "alt": "Blick auf den Viktoriasee bei Kisumu",
+        "caption": "Viktoriasee bei Kisumu, Aufnahme von 2025 (Symbolbild).",
+        "author": "Sanjib Chaudhary",
+        "license": "siehe Originaldatei auf Wikimedia Commons"
+      },
+      "chapters": {
+        "1": {
+          "file": "Uhuru Park in Nairobi, Kenya, during sunset.jpg",
+          "alt": "Nairobi vom Uhuru Park aus bei Sonnenuntergang",
+          "caption": "Nairobi vom Uhuru Park aus, Aufnahme von 2025 (Symbolbild).",
+          "author": "AEira-WMF",
+          "license": "CC BY 4.0"
+        },
+        "2": {
+          "file": "Nairobi skyline.jpg",
+          "alt": "Blick auf die Skyline von Nairobi",
+          "caption": "Nairobi, Aufnahme von 2012 (Symbolbild).",
+          "author": "Waceke kamau",
+          "license": "CC BY-SA 4.0"
+        },
+        "3": {
+          "file": "A view of Lake Victoria, Kisumu, Kenya.jpg",
+          "alt": "Blick auf den Viktoriasee bei Kisumu",
+          "caption": "Viktoriasee bei Kisumu, Aufnahme von 2025 (Symbolbild).",
+          "author": "Sanjib Chaudhary",
+          "license": "siehe Originaldatei auf Wikimedia Commons"
+        },
+        "4": {
+          "file": "A view of Lake Victoria, Kisumu, Kenya.jpg",
+          "alt": "Blick auf den Viktoriasee bei Kisumu",
+          "caption": "Viktoriasee bei Kisumu, Aufnahme von 2025 (Symbolbild).",
+          "author": "Sanjib Chaudhary",
+          "license": "siehe Originaldatei auf Wikimedia Commons"
+        },
+        "5": {
+          "file": "Uhuru Park in Nairobi, Kenya, during sunset.jpg",
+          "alt": "Nairobi vom Uhuru Park aus bei Sonnenuntergang",
+          "caption": "Nairobi vom Uhuru Park aus, Aufnahme von 2025 (Symbolbild).",
+          "author": "AEira-WMF",
+          "license": "CC BY 4.0"
+        },
+        "6": {
+          "file": "A view of Lake Victoria, Kisumu, Kenya.jpg",
+          "alt": "Blick auf den Viktoriasee bei Kisumu",
+          "caption": "Viktoriasee bei Kisumu, Aufnahme von 2025 (Symbolbild).",
+          "author": "Sanjib Chaudhary",
+          "license": "siehe Originaldatei auf Wikimedia Commons"
+        }
+      }
+    }
+  }
+}
