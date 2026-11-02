@@ -1,9 +1,11 @@
-name: Generate free article audio (test)
+name: Generate weekly article audio
 on:
   workflow_dispatch:
   push:
     paths:
-      - 'briefings/testausgabe-03.md'
+      - 'briefings/**.md'
+      - 'briefings/**.json'
+      - 'data/issues.json'
       - 'scripts/generate_audio.py'
 permissions:
   contents: write
@@ -24,4 +26,4 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add audio/
-          git diff --cached --quiet || (git commit -m "Generate article audio for test edition 03" && git push)
+          git diff --cached --quiet || (git commit -m "Generate audio for weekly editions" && git push)
