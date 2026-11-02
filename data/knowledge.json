@@ -1,0 +1,362 @@
+{
+  "version": 1,
+  "description": "Thematischer Wissensindex. Grundlagenartikel sind als in Arbeit markiert, keine erfundenen Inhalte.",
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Wahlen 2027",
+      "description": "Wissen, Zusammenhänge und Entwicklungen",
+      "topics": [
+        "Wahlsystem",
+        "Parteien und Bündnisse",
+        "Wahlbehörde IEBC",
+        "Wahlkampf und Beteiligung"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Politik & Institutionen",
+      "description": "Wissen, Zusammenhänge und Entwicklungen",
+      "topics": [
+        "Regierung und Präsidentschaft",
+        "Parlament",
+        "Justiz und Verfassung",
+        "Aussenpolitik"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Gesellschaft & Wirtschaft",
+      "description": "Wissen, Zusammenhänge und Entwicklungen",
+      "topics": [
+        "Alltag und Lebensbedingungen",
+        "Bildung und Gesundheit",
+        "Wirtschaft und Arbeit",
+        "Zivilgesellschaft"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Geschichte & Hintergründe",
+      "description": "Wissen, Zusammenhänge und Entwicklungen",
+      "topics": [
+        "Kolonialzeit",
+        "Unabhängigkeit",
+        "Demokratisierung",
+        "Regionale Geschichte"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Menschen & Persönlichkeiten",
+      "description": "Wissen, Zusammenhänge und Entwicklungen",
+      "topics": [
+        "Politische Persönlichkeiten",
+        "Kultur und Wissenschaft",
+        "Engagement und Gesellschaft",
+        "Historische Biografien"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Luo & Nyanza",
+      "description": "Wissen, Zusammenhänge und Entwicklungen",
+      "topics": [
+        "Geschichte der Luo",
+        "Kisumu und Nyanza",
+        "Kultur und Traditionen",
+        "Dholuo und Sprache"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "id": "wissen-1-1",
+      "chapter": 1,
+      "title": "Wahlsystem",
+      "summary": "Grundlagen, Entwicklungen und weiterführende Beiträge zu wahlsystem.",
+      "body": "## Überblick\n\nDieses Thema wird als eigenständiger Wissensbereich aufgebaut. Die bisherigen Wochenbriefings sind als ergänzende Quellen über die Kapitelübersicht erreichbar.\n\n## Wissensstand\n\nDie redaktionelle Aufbereitung und Quellenprüfung dieses Grundlagenartikels steht noch aus. Bis dahin werden keine ungeprüften Sachbehauptungen ergänzt.\n\n## Weiterführende Beiträge\n\nSiehe die zugehörigen Kapitel der veröffentlichten Wochenbriefings.",
+      "updated": "2026-11-02",
+      "status": "in_arbeit",
+      "tags": [
+        "Wahlsystem"
+      ]
+    },
+    {
+      "id": "wissen-1-2",
+      "chapter": 1,
+      "title": "Parteien und Bündnisse",
+      "summary": "Grundlagen, Entwicklungen und weiterführende Beiträge zu parteien und bündnisse.",
+      "body": "## Überblick\n\nDieses Thema wird als eigenständiger Wissensbereich aufgebaut. Die bisherigen Wochenbriefings sind als ergänzende Quellen über die Kapitelübersicht erreichbar.\n\n## Wissensstand\n\nDie redaktionelle Aufbereitung und Quellenprüfung dieses Grundlagenartikels steht noch aus. Bis dahin werden keine ungeprüften Sachbehauptungen ergänzt.\n\n## Weiterführende Beiträge\n\nSiehe die zugehörigen Kapitel der veröffentlichten Wochenbriefings.",
+      "updated": "2026-11-02",
+      "status": "in_arbeit",
+      "tags": [
+        "Parteien und Bündnisse"
+      ]
+    },
+    {
+      "id": "wissen-1-3",
+      "chapter": 1,
+      "title": "Wahlbehörde IEBC",
+      "summary": "Grundlagen, Entwicklungen und weiterführende Beiträge zu wahlbehörde iebc.",
+      "body": "## Überblick\n\nDieses Thema wird als eigenständiger Wissensbereich aufgebaut. Die bisherigen Wochenbriefings sind als ergänzende Quellen über die Kapitelübersicht erreichbar.\n\n## Wissensstand\n\nDie redaktionelle Aufbereitung und Quellenprüfung dieses Grundlagenartikels steht noch aus. Bis dahin werden keine ungeprüften Sachbehauptungen ergänzt.\n\n## Weiterführende Beiträge\n\nSiehe die zugehörigen Kapitel der veröffentlichten Wochenbriefings.",
+      "updated": "2026-11-02",
+      "status": "in_arbeit",
+      "tags": [
+        "Wahlbehörde IEBC"
+      ]
+    },
+    {
+      "id": "wissen-1-4",
+      "chapter": 1,
+      "title": "Wahlkampf und Beteiligung",
+      "summary": "Grundlagen, Entwicklungen und weiterführende Beiträge zu wahlkampf und beteiligung.",
+      "body": "## Überblick\n\nDieses Thema wird als eigenständiger Wissensbereich aufgebaut. Die bisherigen Wochenbriefings sind als ergänzende Quellen über die Kapitelübersicht erreichbar.\n\n## Wissensstand\n\nDie redaktionelle Aufbereitung und Quellenprüfung dieses Grundlagenartikels steht noch aus. Bis dahin werden keine ungeprüften Sachbehauptungen ergänzt.\n\n## Weiterführende Beiträge\n\nSiehe die zugehörigen Kapitel der veröffentlichten Wochenbriefings.",
+      "updated": "2026-11-02",
+      "status": "in_arbeit",
+      "tags": [
+        "Wahlkampf und Beteiligung"
+      ]
+    },
+    {
+      "id": "wissen-2-1",
+      "chapter": 2,
+      "title": "Regierung und Präsidentschaft",
+      "summary": "Grundlagen, Entwicklungen und weiterführende Beiträge zu regierung und präsidentschaft.",
+      "body": "## Überblick\n\nDieses Thema wird als eigenständiger Wissensbereich aufgebaut. Die bisherigen Wochenbriefings sind als ergänzende Quellen über die Kapitelübersicht erreichbar.\n\n## Wissensstand\n\nDie redaktionelle Aufbereitung und Quellenprüfung dieses Grundlagenartikels steht noch aus. Bis dahin werden keine ungeprüften Sachbehauptungen ergänzt.\n\n## Weiterführende Beiträge\n\nSiehe die zugehörigen Kapitel der veröffentlichten Wochenbriefings.",
+      "updated": "2026-11-02",
+      "status": "in_arbeit",
+      "tags": [
+        "Regierung und Präsidentschaft"
+      ]
+    },
+    {
+      "id": "wissen-2-2",
+      "chapter": 2,
+      "title": "Parlament",
+      "summary": "Grundlagen, Entwicklungen und weiterführende Beiträge zu parlament.",
+      "body": "## Überblick\n\nDieses Thema wird als eigenständiger Wissensbereich aufgebaut. Die bisherigen Wochenbriefings sind als ergänzende Quellen über die Kapitelübersicht erreichbar.\n\n## Wissensstand\n\nDie redaktionelle Aufbereitung und Quellenprüfung dieses Grundlagenartikels steht noch aus. Bis dahin werden keine ungeprüften Sachbehauptungen ergänzt.\n\n## Weiterführende Beiträge\n\nSiehe die zugehörigen Kapitel der veröffentlichten Wochenbriefings.",
+      "updated": "2026-11-02",
+      "status": "in_arbeit",
+      "tags": [
+        "Parlament"
+      ]
+    },
+    {
+      "id": "wissen-2-3",
+      "chapter": 2,
+      "title": "Justiz und Verfassung",
+      "summary": "Grundlagen, Entwicklungen und weiterführende Beiträge zu justiz und verfassung.",
+      "body": "## Überblick\n\nDieses Thema wird als eigenständiger Wissensbereich aufgebaut. Die bisherigen Wochenbriefings sind als ergänzende Quellen über die Kapitelübersicht erreichbar.\n\n## Wissensstand\n\nDie redaktionelle Aufbereitung und Quellenprüfung dieses Grundlagenartikels steht noch aus. Bis dahin werden keine ungeprüften Sachbehauptungen ergänzt.\n\n## Weiterführende Beiträge\n\nSiehe die zugehörigen Kapitel der veröffentlichten Wochenbriefings.",
+      "updated": "2026-11-02",
+      "status": "in_arbeit",
+      "tags": [
+        "Justiz und Verfassung"
+      ]
+    },
+    {
+      "id": "wissen-2-4",
+      "chapter": 2,
+      "title": "Aussenpolitik",
+      "summary": "Grundlagen, Entwicklungen und weiterführende Beiträge zu aussenpolitik.",
+      "body": "## Überblick\n\nDieses Thema wird als eigenständiger Wissensbereich aufgebaut. Die bisherigen Wochenbriefings sind als ergänzende Quellen über die Kapitelübersicht erreichbar.\n\n## Wissensstand\n\nDie redaktionelle Aufbereitung und Quellenprüfung dieses Grundlagenartikels steht noch aus. Bis dahin werden keine ungeprüften Sachbehauptungen ergänzt.\n\n## Weiterführende Beiträge\n\nSiehe die zugehörigen Kapitel der veröffentlichten Wochenbriefings.",
+      "updated": "2026-11-02",
+      "status": "in_arbeit",
+      "tags": [
+        "Aussenpolitik"
+      ]
+    },
+    {
+      "id": "wissen-3-1",
+      "chapter": 3,
+      "title": "Alltag und Lebensbedingungen",
+      "summary": "Grundlagen, Entwicklungen und weiterführende Beiträge zu alltag und lebensbedingungen.",
+      "body": "## Überblick\n\nDieses Thema wird als eigenständiger Wissensbereich aufgebaut. Die bisherigen Wochenbriefings sind als ergänzende Quellen über die Kapitelübersicht erreichbar.\n\n## Wissensstand\n\nDie redaktionelle Aufbereitung und Quellenprüfung dieses Grundlagenartikels steht noch aus. Bis dahin werden keine ungeprüften Sachbehauptungen ergänzt.\n\n## Weiterführende Beiträge\n\nSiehe die zugehörigen Kapitel der veröffentlichten Wochenbriefings.",
+      "updated": "2026-11-02",
+      "status": "in_arbeit",
+      "tags": [
+        "Alltag und Lebensbedingungen"
+      ]
+    },
+    {
+      "id": "wissen-3-2",
+      "chapter": 3,
+      "title": "Bildung und Gesundheit",
+      "summary": "Grundlagen, Entwicklungen und weiterführende Beiträge zu bildung und gesundheit.",
+      "body": "## Überblick\n\nDieses Thema wird als eigenständiger Wissensbereich aufgebaut. Die bisherigen Wochenbriefings sind als ergänzende Quellen über die Kapitelübersicht erreichbar.\n\n## Wissensstand\n\nDie redaktionelle Aufbereitung und Quellenprüfung dieses Grundlagenartikels steht noch aus. Bis dahin werden keine ungeprüften Sachbehauptungen ergänzt.\n\n## Weiterführende Beiträge\n\nSiehe die zugehörigen Kapitel der veröffentlichten Wochenbriefings.",
+      "updated": "2026-11-02",
+      "status": "in_arbeit",
+      "tags": [
+        "Bildung und Gesundheit"
+      ]
+    },
+    {
+      "id": "wissen-3-3",
+      "chapter": 3,
+      "title": "Wirtschaft und Arbeit",
+      "summary": "Grundlagen, Entwicklungen und weiterführende Beiträge zu wirtschaft und arbeit.",
+      "body": "## Überblick\n\nDieses Thema wird als eigenständiger Wissensbereich aufgebaut. Die bisherigen Wochenbriefings sind als ergänzende Quellen über die Kapitelübersicht erreichbar.\n\n## Wissensstand\n\nDie redaktionelle Aufbereitung und Quellenprüfung dieses Grundlagenartikels steht noch aus. Bis dahin werden keine ungeprüften Sachbehauptungen ergänzt.\n\n## Weiterführende Beiträge\n\nSiehe die zugehörigen Kapitel der veröffentlichten Wochenbriefings.",
+      "updated": "2026-11-02",
+      "status": "in_arbeit",
+      "tags": [
+        "Wirtschaft und Arbeit"
+      ]
+    },
+    {
+      "id": "wissen-3-4",
+      "chapter": 3,
+      "title": "Zivilgesellschaft",
+      "summary": "Grundlagen, Entwicklungen und weiterführende Beiträge zu zivilgesellschaft.",
+      "body": "## Überblick\n\nDieses Thema wird als eigenständiger Wissensbereich aufgebaut. Die bisherigen Wochenbriefings sind als ergänzende Quellen über die Kapitelübersicht erreichbar.\n\n## Wissensstand\n\nDie redaktionelle Aufbereitung und Quellenprüfung dieses Grundlagenartikels steht noch aus. Bis dahin werden keine ungeprüften Sachbehauptungen ergänzt.\n\n## Weiterführende Beiträge\n\nSiehe die zugehörigen Kapitel der veröffentlichten Wochenbriefings.",
+      "updated": "2026-11-02",
+      "status": "in_arbeit",
+      "tags": [
+        "Zivilgesellschaft"
+      ]
+    },
+    {
+      "id": "wissen-4-1",
+      "chapter": 4,
+      "title": "Kolonialzeit",
+      "summary": "Grundlagen, Entwicklungen und weiterführende Beiträge zu kolonialzeit.",
+      "body": "## Überblick\n\nDieses Thema wird als eigenständiger Wissensbereich aufgebaut. Die bisherigen Wochenbriefings sind als ergänzende Quellen über die Kapitelübersicht erreichbar.\n\n## Wissensstand\n\nDie redaktionelle Aufbereitung und Quellenprüfung dieses Grundlagenartikels steht noch aus. Bis dahin werden keine ungeprüften Sachbehauptungen ergänzt.\n\n## Weiterführende Beiträge\n\nSiehe die zugehörigen Kapitel der veröffentlichten Wochenbriefings.",
+      "updated": "2026-11-02",
+      "status": "in_arbeit",
+      "tags": [
+        "Kolonialzeit"
+      ]
+    },
+    {
+      "id": "wissen-4-2",
+      "chapter": 4,
+      "title": "Unabhängigkeit",
+      "summary": "Grundlagen, Entwicklungen und weiterführende Beiträge zu unabhängigkeit.",
+      "body": "## Überblick\n\nDieses Thema wird als eigenständiger Wissensbereich aufgebaut. Die bisherigen Wochenbriefings sind als ergänzende Quellen über die Kapitelübersicht erreichbar.\n\n## Wissensstand\n\nDie redaktionelle Aufbereitung und Quellenprüfung dieses Grundlagenartikels steht noch aus. Bis dahin werden keine ungeprüften Sachbehauptungen ergänzt.\n\n## Weiterführende Beiträge\n\nSiehe die zugehörigen Kapitel der veröffentlichten Wochenbriefings.",
+      "updated": "2026-11-02",
+      "status": "in_arbeit",
+      "tags": [
+        "Unabhängigkeit"
+      ]
+    },
+    {
+      "id": "wissen-4-3",
+      "chapter": 4,
+      "title": "Demokratisierung",
+      "summary": "Grundlagen, Entwicklungen und weiterführende Beiträge zu demokratisierung.",
+      "body": "## Überblick\n\nDieses Thema wird als eigenständiger Wissensbereich aufgebaut. Die bisherigen Wochenbriefings sind als ergänzende Quellen über die Kapitelübersicht erreichbar.\n\n## Wissensstand\n\nDie redaktionelle Aufbereitung und Quellenprüfung dieses Grundlagenartikels steht noch aus. Bis dahin werden keine ungeprüften Sachbehauptungen ergänzt.\n\n## Weiterführende Beiträge\n\nSiehe die zugehörigen Kapitel der veröffentlichten Wochenbriefings.",
+      "updated": "2026-11-02",
+      "status": "in_arbeit",
+      "tags": [
+        "Demokratisierung"
+      ]
+    },
+    {
+      "id": "wissen-4-4",
+      "chapter": 4,
+      "title": "Regionale Geschichte",
+      "summary": "Grundlagen, Entwicklungen und weiterführende Beiträge zu regionale geschichte.",
+      "body": "## Überblick\n\nDieses Thema wird als eigenständiger Wissensbereich aufgebaut. Die bisherigen Wochenbriefings sind als ergänzende Quellen über die Kapitelübersicht erreichbar.\n\n## Wissensstand\n\nDie redaktionelle Aufbereitung und Quellenprüfung dieses Grundlagenartikels steht noch aus. Bis dahin werden keine ungeprüften Sachbehauptungen ergänzt.\n\n## Weiterführende Beiträge\n\nSiehe die zugehörigen Kapitel der veröffentlichten Wochenbriefings.",
+      "updated": "2026-11-02",
+      "status": "in_arbeit",
+      "tags": [
+        "Regionale Geschichte"
+      ]
+    },
+    {
+      "id": "wissen-5-1",
+      "chapter": 5,
+      "title": "Politische Persönlichkeiten",
+      "summary": "Grundlagen, Entwicklungen und weiterführende Beiträge zu politische persönlichkeiten.",
+      "body": "## Überblick\n\nDieses Thema wird als eigenständiger Wissensbereich aufgebaut. Die bisherigen Wochenbriefings sind als ergänzende Quellen über die Kapitelübersicht erreichbar.\n\n## Wissensstand\n\nDie redaktionelle Aufbereitung und Quellenprüfung dieses Grundlagenartikels steht noch aus. Bis dahin werden keine ungeprüften Sachbehauptungen ergänzt.\n\n## Weiterführende Beiträge\n\nSiehe die zugehörigen Kapitel der veröffentlichten Wochenbriefings.",
+      "updated": "2026-11-02",
+      "status": "in_arbeit",
+      "tags": [
+        "Politische Persönlichkeiten"
+      ]
+    },
+    {
+      "id": "wissen-5-2",
+      "chapter": 5,
+      "title": "Kultur und Wissenschaft",
+      "summary": "Grundlagen, Entwicklungen und weiterführende Beiträge zu kultur und wissenschaft.",
+      "body": "## Überblick\n\nDieses Thema wird als eigenständiger Wissensbereich aufgebaut. Die bisherigen Wochenbriefings sind als ergänzende Quellen über die Kapitelübersicht erreichbar.\n\n## Wissensstand\n\nDie redaktionelle Aufbereitung und Quellenprüfung dieses Grundlagenartikels steht noch aus. Bis dahin werden keine ungeprüften Sachbehauptungen ergänzt.\n\n## Weiterführende Beiträge\n\nSiehe die zugehörigen Kapitel der veröffentlichten Wochenbriefings.",
+      "updated": "2026-11-02",
+      "status": "in_arbeit",
+      "tags": [
+        "Kultur und Wissenschaft"
+      ]
+    },
+    {
+      "id": "wissen-5-3",
+      "chapter": 5,
+      "title": "Engagement und Gesellschaft",
+      "summary": "Grundlagen, Entwicklungen und weiterführende Beiträge zu engagement und gesellschaft.",
+      "body": "## Überblick\n\nDieses Thema wird als eigenständiger Wissensbereich aufgebaut. Die bisherigen Wochenbriefings sind als ergänzende Quellen über die Kapitelübersicht erreichbar.\n\n## Wissensstand\n\nDie redaktionelle Aufbereitung und Quellenprüfung dieses Grundlagenartikels steht noch aus. Bis dahin werden keine ungeprüften Sachbehauptungen ergänzt.\n\n## Weiterführende Beiträge\n\nSiehe die zugehörigen Kapitel der veröffentlichten Wochenbriefings.",
+      "updated": "2026-11-02",
+      "status": "in_arbeit",
+      "tags": [
+        "Engagement und Gesellschaft"
+      ]
+    },
+    {
+      "id": "wissen-5-4",
+      "chapter": 5,
+      "title": "Historische Biografien",
+      "summary": "Grundlagen, Entwicklungen und weiterführende Beiträge zu historische biografien.",
+      "body": "## Überblick\n\nDieses Thema wird als eigenständiger Wissensbereich aufgebaut. Die bisherigen Wochenbriefings sind als ergänzende Quellen über die Kapitelübersicht erreichbar.\n\n## Wissensstand\n\nDie redaktionelle Aufbereitung und Quellenprüfung dieses Grundlagenartikels steht noch aus. Bis dahin werden keine ungeprüften Sachbehauptungen ergänzt.\n\n## Weiterführende Beiträge\n\nSiehe die zugehörigen Kapitel der veröffentlichten Wochenbriefings.",
+      "updated": "2026-11-02",
+      "status": "in_arbeit",
+      "tags": [
+        "Historische Biografien"
+      ]
+    },
+    {
+      "id": "wissen-6-1",
+      "chapter": 6,
+      "title": "Geschichte der Luo",
+      "summary": "Grundlagen, Entwicklungen und weiterführende Beiträge zu geschichte der luo.",
+      "body": "## Überblick\n\nDieses Thema wird als eigenständiger Wissensbereich aufgebaut. Die bisherigen Wochenbriefings sind als ergänzende Quellen über die Kapitelübersicht erreichbar.\n\n## Wissensstand\n\nDie redaktionelle Aufbereitung und Quellenprüfung dieses Grundlagenartikels steht noch aus. Bis dahin werden keine ungeprüften Sachbehauptungen ergänzt.\n\n## Weiterführende Beiträge\n\nSiehe die zugehörigen Kapitel der veröffentlichten Wochenbriefings.",
+      "updated": "2026-11-02",
+      "status": "in_arbeit",
+      "tags": [
+        "Geschichte der Luo"
+      ]
+    },
+    {
+      "id": "wissen-6-2",
+      "chapter": 6,
+      "title": "Kisumu und Nyanza",
+      "summary": "Grundlagen, Entwicklungen und weiterführende Beiträge zu kisumu und nyanza.",
+      "body": "## Überblick\n\nDieses Thema wird als eigenständiger Wissensbereich aufgebaut. Die bisherigen Wochenbriefings sind als ergänzende Quellen über die Kapitelübersicht erreichbar.\n\n## Wissensstand\n\nDie redaktionelle Aufbereitung und Quellenprüfung dieses Grundlagenartikels steht noch aus. Bis dahin werden keine ungeprüften Sachbehauptungen ergänzt.\n\n## Weiterführende Beiträge\n\nSiehe die zugehörigen Kapitel der veröffentlichten Wochenbriefings.",
+      "updated": "2026-11-02",
+      "status": "in_arbeit",
+      "tags": [
+        "Kisumu und Nyanza"
+      ]
+    },
+    {
+      "id": "wissen-6-3",
+      "chapter": 6,
+      "title": "Kultur und Traditionen",
+      "summary": "Grundlagen, Entwicklungen und weiterführende Beiträge zu kultur und traditionen.",
+      "body": "## Überblick\n\nDieses Thema wird als eigenständiger Wissensbereich aufgebaut. Die bisherigen Wochenbriefings sind als ergänzende Quellen über die Kapitelübersicht erreichbar.\n\n## Wissensstand\n\nDie redaktionelle Aufbereitung und Quellenprüfung dieses Grundlagenartikels steht noch aus. Bis dahin werden keine ungeprüften Sachbehauptungen ergänzt.\n\n## Weiterführende Beiträge\n\nSiehe die zugehörigen Kapitel der veröffentlichten Wochenbriefings.",
+      "updated": "2026-11-02",
+      "status": "in_arbeit",
+      "tags": [
+        "Kultur und Traditionen"
+      ]
+    },
+    {
+      "id": "wissen-6-4",
+      "chapter": 6,
+      "title": "Dholuo und Sprache",
+      "summary": "Grundlagen, Entwicklungen und weiterführende Beiträge zu dholuo und sprache.",
+      "body": "## Überblick\n\nDieses Thema wird als eigenständiger Wissensbereich aufgebaut. Die bisherigen Wochenbriefings sind als ergänzende Quellen über die Kapitelübersicht erreichbar.\n\n## Wissensstand\n\nDie redaktionelle Aufbereitung und Quellenprüfung dieses Grundlagenartikels steht noch aus. Bis dahin werden keine ungeprüften Sachbehauptungen ergänzt.\n\n## Weiterführende Beiträge\n\nSiehe die zugehörigen Kapitel der veröffentlichten Wochenbriefings.",
+      "updated": "2026-11-02",
+      "status": "in_arbeit",
+      "tags": [
+        "Dholuo und Sprache"
+      ]
+    }
+  ]
+}
