@@ -16,6 +16,8 @@ jobs:
         with:
           python-version: '3.11'
       - run: python -m pip install piper-tts
+      - name: Install MP3 encoder
+        run: sudo apt-get update -qq && sudo apt-get install -y ffmpeg
       - run: python scripts/generate_audio.py
       - name: Publish generated audio
         run: |
