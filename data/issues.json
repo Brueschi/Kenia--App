@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "description": "Index der Kenia-Weekly-Ausgaben. Bei jeder neuen Veröffentlichung ergänzen.",
+  "issues": [
+    {
+      "id": "testausgabe-01",
+      "metadata": "briefings/testausgabe-01.json"
+    },
+    {
+      "id": "testausgabe-02",
+      "metadata": "briefings/testausgabe-02.json"
+    },
+    {
+      "id": "testausgabe-03",
+      "metadata": "briefings/testausgabe-03.json"
+    }
+  ]
+}
