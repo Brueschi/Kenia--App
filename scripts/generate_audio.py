@@ -33,3 +33,11 @@ for idx,match in enumerate(matches):
     subprocess.run(['ffmpeg','-y','-loglevel','error','-i',str(target),'-codec:a','libmp3lame','-b:a','64k',str(mp3)],check=True)
     target.unlink()
     print(mp3,mp3.stat().st_size)
+
+# Combine all six chapters into one continuous weekly audio edition.
+playlist=out/'chapters.txt'
+playlist.write_text(''.join("file 'kapitel-{}.mp3'\n".format(n) for n in range(1,7)),encoding='utf-8')
+full=out/'gesamtausgabe.mp3'
+subprocess.run(['ffmpeg','-y','-loglevel','error','-f','concat','-safe','0','-i',str(playlist),'-c','copy',str(full)],check=True)
+playlist.unlink()
+print(full,full.stat().st_size)
