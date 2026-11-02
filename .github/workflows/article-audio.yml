@@ -7,6 +7,7 @@ on:
       - 'briefings/**.json'
       - 'data/issues.json'
       - 'scripts/generate_audio.py'
+      - '.github/workflows/article-audio.yml'
 permissions:
   contents: write
 jobs:
