@@ -1,0 +1,12 @@
+{
+  "name": "Kenia Weekly",
+  "short_name": "Kenia Weekly",
+  "description": "Das wöchentliche Kenia-Briefing",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f7f2",
+  "theme_color": "#102b28",
+  "lang": "de",
+  "icons": []
+}
