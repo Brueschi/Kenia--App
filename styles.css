@@ -19,3 +19,6 @@
 
 /* Requested overview refinements (v16) */
 .hero{padding-top:26px!important;padding-bottom:26px!important;min-height:0!important;margin-bottom:14px!important}.hero h1{font-size:clamp(1.75rem,3.5vw,2.5rem)!important;margin:6px 0!important}.overview-date{font-size:.95rem;color:var(--muted);margin:10px 0 18px;font-weight:600}.latest-story .latest-topic{padding:11px 17px;background:#17312b;color:#dcece4;font-size:.94rem;font-weight:700;line-height:1.4}.latest-story .latest-copy .eyebrow{display:none}.latest-story .latest-copy h3{margin-top:0}
+
+/* Kenya flag-inspired masthead: black, red, green with white dividers */
+.topbar{background:linear-gradient(to bottom,#080808 0%,#080808 31%,#fff 31%,#fff 34%,#b7192a 34%,#b7192a 63%,#fff 63%,#fff 66%,#086c36 66%,#086c36 100%);border-bottom:1px solid #075b2e}.topbar .brand{background:rgba(0,0,0,.62);padding:7px 14px;border-radius:8px;color:#fff}.topbar .iconbutton{background:rgba(0,0,0,.64);color:#fff;border-color:rgba(255,255,255,.45)}
