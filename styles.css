@@ -10,3 +10,6 @@
 
 /* Latest article + archive index */
 .older-list{display:grid;gap:13px;margin:15px 0 38px}.older-item{display:block;padding:20px 22px;border:1px solid var(--line);border-radius:12px;background:var(--card);text-decoration:none}.older-item h3{margin:9px 0 6px;font-size:1.1rem;line-height:1.35}.older-item p{margin:0 0 10px;color:var(--muted);font-size:.9rem}.older-item:hover{border-color:var(--accent)}.latest-story .latest-copy .button{display:inline-block;margin-top:9px}.briefing-chapter .article{overflow-wrap:anywhere}
+
+/* Two article previews per row, including tablet widths */
+.latest-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}.latest-story{min-width:0}.latest-story .card-photo img{width:100%;object-fit:cover}@media(max-width:560px){.latest-grid{grid-template-columns:1fr}}
