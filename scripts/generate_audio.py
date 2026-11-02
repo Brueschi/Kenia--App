@@ -29,4 +29,7 @@ for idx,match in enumerate(matches):
     body=re.sub(r'\n{3,}','\n\n',body).strip()
     target=out/f'kapitel-{n}.wav'
     subprocess.run(['piper','--model',str(model),'--config',str(config),'--output_file',str(target)],input=body,text=True,check=True)
-    print(target,target.stat().st_size)
+    mp3=out/f'kapitel-{n}.mp3'
+    subprocess.run(['ffmpeg','-y','-loglevel','error','-i',str(target),'-codec:a','libmp3lame','-b:a','64k',str(mp3)],check=True)
+    target.unlink()
+    print(mp3,mp3.stat().st_size)
