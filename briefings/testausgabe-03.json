@@ -1,0 +1,15 @@
+{
+  "id": "testausgabe-03",
+  "title": "Kenia Weekly – Testausgabe 03: Luo und Nyanza",
+  "test": true,
+  "markdown_path": "briefings/testausgabe-03.md",
+  "chapters": [
+    "Wahlen 2027",
+    "Politik",
+    "Gesellschaft",
+    "Geschichte",
+    "Persönlichkeit",
+    "Die Luo"
+  ],
+  "status": "complete"
+}
