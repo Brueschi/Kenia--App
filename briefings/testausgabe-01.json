@@ -1,0 +1,15 @@
+{
+  "id": "testausgabe-01",
+  "title": "Kenia Weekly – Testausgabe 01: Wahlen und Institutionen",
+  "test": true,
+  "markdown_path": "briefings/testausgabe-01.md",
+  "chapters": [
+    "1. Wahlen 2027: Wahlkalender, IEBC und Verfassungsstreit",
+    "2. Weitere Politik: Parlament, Justiz und Kontrolle der Macht",
+    "3. Gesellschaft: Bürgerrechte, Proteste und soziale Gesetzgebung",
+    "4. Geschichte: Von der Krise 2007 zur Verfassung von 2010",
+    "5. Persönlichkeit: David Maraga und die Unabhängigkeit der Justiz",
+    "6. Luo in Kenia: Nyanza, Kisumu, Politik und Dholuo"
+  ],
+  "status": "complete"
+}
