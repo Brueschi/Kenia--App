@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "note": "Nur vier anhand der Commons-Originalseiten geprüfte Fotos; 16 ungeprüfte Motive entfernt.",
+  "version": 4,
+  "note": "Kapitelbilder nach Themen, Lizenz und Urheber direkt auf Commons-Dateiseiten geprüft. Kontextbilder, keine aktuelle Ereignisdokumentation.",
   "default_cover": {
     "file": "Nairobi skyline.jpg",
     "alt": "Nairobi",
@@ -223,6 +223,96 @@
       "author": "Islahaddow",
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "file": "Kenyan Parliament.JPG",
+      "alt": "Kenianisches Parlament in Nairobi",
+      "author": "Daryona",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "caption": "Kenianisches Parlament in Nairobi · Kontext-/Archivaufnahme, nicht aktuelles Ereignis"
+    },
+    {
+      "file": "Kenyan Parliament Entry.JPG",
+      "alt": "Eingang zum kenianischen Parlament",
+      "author": "Wing",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "caption": "Eingang zum kenianischen Parlament · Kontext-/Archivaufnahme, nicht aktuelles Ereignis"
+    },
+    {
+      "file": "Kenyan parliament in Nairobi (3201224078).jpg",
+      "alt": "Historische Ansicht des kenianischen Parlaments (1973)",
+      "author": "mwanasimba",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "caption": "Historische Ansicht des kenianischen Parlaments (1973) · Kontext-/Archivaufnahme, nicht aktuelles Ereignis"
+    },
+    {
+      "file": "Catherine Omanyo speaking.jpg",
+      "alt": "Catherine Omanyo spricht mit Menschen in Busia (2022)",
+      "author": "Currentmorgan248",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "caption": "Catherine Omanyo spricht mit Menschen in Busia (2022) · Kontext-/Archivaufnahme, nicht aktuelles Ereignis"
+    },
+    {
+      "file": "COLLECTIE TROPENMUSEUM Straatgezicht in Nairobi met het Keniaans Parlementsgebouw de Nairobi Parliament Building TMnr 20014407.jpg",
+      "alt": "Historische Aufnahme des Parlaments in Nairobi (1964)",
+      "author": "Collectie Wereldmuseum (v/h Tropenmuseum)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "caption": "Historische Aufnahme des Parlaments in Nairobi (1964) · Kontext-/Archivaufnahme, nicht aktuelles Ereignis"
     }
-  ]
+  ],
+  "chapter_images": {
+    "1": {
+      "file": "Kenyan Parliament.JPG",
+      "alt": "Kenianisches Parlament in Nairobi",
+      "author": "Daryona",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "caption": "Kenianisches Parlament in Nairobi · Kontext-/Archivaufnahme, nicht aktuelles Ereignis"
+    },
+    "2": {
+      "file": "Kenyan Parliament Entry.JPG",
+      "alt": "Eingang zum kenianischen Parlament",
+      "author": "Wing",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "caption": "Eingang zum kenianischen Parlament · Kontext-/Archivaufnahme, nicht aktuelles Ereignis"
+    },
+    "3": {
+      "file": "Catherine Omanyo speaking.jpg",
+      "alt": "Catherine Omanyo spricht mit Menschen in Busia (2022)",
+      "author": "Currentmorgan248",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "caption": "Catherine Omanyo spricht mit Menschen in Busia (2022) · Kontext-/Archivaufnahme, nicht aktuelles Ereignis"
+    },
+    "4": {
+      "file": "COLLECTIE TROPENMUSEUM Straatgezicht in Nairobi met het Keniaans Parlementsgebouw de Nairobi Parliament Building TMnr 20014407.jpg",
+      "alt": "Historische Aufnahme des Parlaments in Nairobi (1964)",
+      "author": "Collectie Wereldmuseum (v/h Tropenmuseum)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "caption": "Historische Aufnahme des Parlaments in Nairobi (1964) · Kontext-/Archivaufnahme, nicht aktuelles Ereignis"
+    },
+    "5": {
+      "file": "Kenyan parliament in Nairobi (3201224078).jpg",
+      "alt": "Historische Ansicht des kenianischen Parlaments (1973)",
+      "author": "mwanasimba",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "caption": "Historische Ansicht des kenianischen Parlaments (1973) · Kontext-/Archivaufnahme, nicht aktuelles Ereignis"
+    },
+    "6": {
+      "file": "A view of Lake Victoria, Kisumu, Kenya.jpg",
+      "alt": "Viktoriasee bei Kisumu",
+      "caption": "Kontextbild; keine aktuelle Ereignisaufnahme",
+      "author": "Sanjib Chaudhary",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  }
 }
