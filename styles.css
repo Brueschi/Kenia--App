@@ -25,3 +25,15 @@
 
 /* Chapter navigation and compact article catalog */
 .sidebar .chapter-subnav{padding:3px 0 12px 13px;margin:0 0 6px 10px;border-left:2px solid rgba(154,190,170,.35);display:flex;flex-direction:column;gap:2px}.sidebar .chapter-subnav a{font-size:.79rem;line-height:1.35;padding:8px 10px;display:block;white-space:normal;overflow-wrap:anywhere;text-decoration:none;border-radius:7px;color:var(--muted)}.sidebar .chapter-subnav a:hover,.sidebar .chapter-subnav a[href].active{color:var(--ink);background:rgba(137,174,151,.15)}.sidebar .chapter-subnav .all-articles-link{font-weight:700;color:#91c6a6;margin-top:5px}.mini-article-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin:22px 0 40px}.mini-article{border:1px solid var(--line);border-radius:12px;padding:19px;background:var(--card);text-decoration:none;display:flex;flex-direction:column;min-height:195px}.mini-article:hover{border-color:#8ea895}.mini-article h3{font-size:1.07rem;line-height:1.35;margin:10px 0}.mini-article p{font-size:.85rem;line-height:1.5;color:var(--muted);margin:0 0 16px;flex:1}.mini-article-date{font-size:.74rem;color:var(--muted)}.mini-article .smallcap{font-size:.72rem}@media(max-width:640px){.mini-article-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.mini-article{padding:12px;min-height:165px}.mini-article h3{font-size:.92rem}.mini-article p{font-size:.78rem}}
+
+/* Mobile navigation: prevent expanded chapter submenus from collapsing into narrow vertical text columns. */
+@media(max-width:720px){
+  .sidebar{width:100%;min-width:0;overflow:hidden}
+  .sidebar nav{display:flex;flex-direction:row;flex-wrap:nowrap;overflow-x:auto;overflow-y:hidden;align-items:center;gap:4px;max-width:100%;-webkit-overflow-scrolling:touch}
+  .sidebar nav > a{flex:0 0 auto;white-space:nowrap;overflow-wrap:normal;word-break:normal}
+  .sidebar .chapter-subnav{display:none!important}
+  .layout{display:block;min-width:0}
+  main{min-width:0;width:100%;overflow-wrap:anywhere}
+  .briefing-chapter,.article,.audio-player{min-width:0;max-width:100%}
+  audio{max-width:100%;width:100%}
+}
