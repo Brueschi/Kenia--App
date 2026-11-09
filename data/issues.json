@@ -3,6 +3,10 @@
   "description": "Index der Kenia-Weekly-Ausgaben. Bei jeder neuen Veröffentlichung ergänzen.",
   "issues": [
     {
+      "id": "2026-11-09",
+      "metadata": "briefings/2026-11-09.json"
+    },
+    {
       "id": "testausgabe-01",
       "metadata": "briefings/testausgabe-01.json"
     },
